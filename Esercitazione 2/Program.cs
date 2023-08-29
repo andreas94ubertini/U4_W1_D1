@@ -30,7 +30,7 @@ namespace Esercitazione_2
             Prodotto prodotto = new Prodotto(nomeProdotto, prezzoProdotto, quantita);
             Console.WriteLine(prodotto.CalcolaTotale());
             Console.ReadLine();
-            //prova commento
+            
         }
     }
 }
